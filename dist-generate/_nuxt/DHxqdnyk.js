@@ -1,0 +1,1 @@
+import{_ as a}from"./BrHYHSrW.js";import{_ as n,c,a as t,d as e,b as _,w as s,o as r}from"./Cj5YTcLz.js";const l={},u=t("h1",null,"About Page",-1);function d(i,m){const o=a;return r(),c("div",null,[u,t("p",null,[e("Click "),_(o,{to:"/"},{default:s(()=>[e("here")]),_:1}),e(" to go to the home page")])])}const h=n(l,[["render",d]]);export{h as default};
